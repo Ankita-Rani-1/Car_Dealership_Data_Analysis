@@ -1,4 +1,4 @@
-# Car Sales Analysis Project
+# Car_Dealership_Data_Analysis Project
 
 ## Overview
 This project involves analyzing a dataset of car sales using SQL queries. The dataset is stored in a MySQL database named 'cars' with a table called 'car_dekho'.
